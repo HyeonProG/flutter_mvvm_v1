@@ -2,7 +2,7 @@
 // ViewModel 클래스 - 상태와 로직을 담당.
 
 import 'package:flutter/material.dart';
-import 'package:my_mvvm_v01/start03/models/todo.dart';
+import 'package:my_mvvm_v01/start04/models/todo.dart';
 
 // ChangeNotifier 상속 한다.
 class TodoViewModel extends ChangeNotifier {
